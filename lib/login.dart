@@ -31,6 +31,8 @@ class MyApp extends StatelessWidget {
         '/surat_tugas': (context) => const SuratTugasPage (title: 'SERTIPEDIA'),
         '/input_pelatihan': (context) => const InputPelatihan (title: 'SERTIPEDIA'),
         '/input_sertifikasi': (context) => const InputSertifikasi (title: 'SERTIPEDIA'),
+        //tambah
+        '/input_pelatihan': (context) => const InputPelatihan (title: 'SERTIPEDIA'),
       },
     );
   }
